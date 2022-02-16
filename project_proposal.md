@@ -7,7 +7,7 @@ research on developing medicinal properties out of poisonous mushrooms which tre
 A classification model will predict if the mushroom is poisonous or not using different features like cap shape, gill color, odor, seasons etc. 
 
 
-## Assumptions:
+## Assumption:
 The Assumption made here is that the poisonous mushroom has medicinal properties in them and edible mushroom dont.
 
 ## Dataset:
