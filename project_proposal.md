@@ -1,3 +1,5 @@
+# Project Proposal of Classification project
+
 ## Question
 Building a classification model for A Food Science Lab, which tests food items to determine their physical and chemical characteristics
 to get some useful information for their research. They are interested to knowing whether a mushroom is edible or poisonous for their
@@ -8,7 +10,7 @@ A classification model will predict if the mushroom is poisonous or not using di
 ## Assumptions:
 The Assumption made here is that the poisonous mushroom has medicinal properties in them and edible mushroom dont.
 
-# Data Set: 
+## Dataset
 
 https://archive.ics.uci.edu/ml/datasets/Secondary+Mushroom+Dataset
 
