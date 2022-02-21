@@ -6,9 +6,9 @@ I have built a baseline Decision Tree model fit to the numerical features withou
 
 <img width="452" alt="Screen Shot 2022-02-21 at 2 38 24 PM" src="https://user-images.githubusercontent.com/89863226/155034236-d39c3146-72ee-4b99-8ee0-64ce5c1bff9e.png">
 
-the above heat map shows cap-diameter and stem-width are highly correalted with the target. so I used these two features for baseline Decision Tree model
+The above heat map shows that cap-diameter and stem-width are highly correlated with the target. so I used these two features for baseline Decision Tree Model
 
-**This model has an accuracy score of 0.77
+**This model has an accuracy score of 0.77**
 
 Confusion matrix:
 
@@ -17,4 +17,5 @@ Confusion matrix:
 I am considering Recall and F1 score to measure the success of a model. 
 
 Recall score for the model is  0.765
+
 F1 score for the model is 0.788
