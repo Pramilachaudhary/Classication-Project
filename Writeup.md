@@ -22,10 +22,10 @@ the dataset which has the mushroom's physical characteristics such as color, tex
   We hypothesize that creating a classification model for pharmaceutical companies will help them 
   identify the poisonous mushrooms faster and accurately and save money for their further study.
 
-  Primary Impacts: Over the past few years, many pharmaceutical companies are taking advantage of 
+  1. Primary Impacts: Over the past few years, many pharmaceutical companies are taking advantage of 
   this magic mushroom whose medicinal compounds have raised hundreds of million of dollars from private investors.
 
-  Secondary Impacts: Successfully identifying and study will not only help the pharmaceutical companies but 
+  2. Secondary Impacts: Successfully identifying and study will not only help the pharmaceutical companies but 
   also would help the human life by prevent wide range of illnesses including cancer, tumor, diabetes etc
 
 
@@ -37,7 +37,7 @@ the dataset which has the mushroom's physical characteristics such as color, tex
   
   https://archive.ics.uci.edu/ml/datasets/Secondary+Mushroom+Dataset
 
-  **Data Description:
+  **Data Description:**
     
   This dataset consists of 61069 number of instances  and 21 number of attributes
   
