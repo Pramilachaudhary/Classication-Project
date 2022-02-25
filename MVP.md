@@ -1,6 +1,6 @@
 ## Baseline Classification Model for Determining Poisonous Mushrooms
 The goal of this project is to build a classification model which determines whether a mushroom is poisonous or not 
-for a Food Science Lab who are interested in studying poisonous mushrooms for medicinal properties. 
+for a Pharmaceutical Company who are interested in studying poisonous mushrooms for medicinal properties. 
 
 I have built a baseline Decision Tree model fit to the numerical features without null values and the target, Class (P:1, E:0) where P = Poisonous and E = Edible
 
