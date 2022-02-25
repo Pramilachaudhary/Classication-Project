@@ -71,8 +71,10 @@ the dataset which has the mushroom's physical characteristics such as color, tex
   
   Random Forest Classifier  validation metrics: 
   
-  -Accuracy: 0.7956 
+  -Accuracy: 0.7956
+  
   -Recall: 0.8117
+  
   -fbeta_score: 0.8155
   
   <img width="974" alt="Screenshot 2022-02-24 at 7 10 54 PM" src="https://user-images.githubusercontent.com/89863226/155646766-8821fc29-4364-4134-9a7a-028153d42cac.png">
@@ -86,8 +88,11 @@ the dataset which has the mushroom's physical characteristics such as color, tex
   
   Random Forest Classifier validation metrics for test data set: 
   -Accuracy: 0.9885 
+  
   -Recall: 0.9865
+  
   -fbeta_score: 0.9906
+  
 # Tools
   
   1. Pandas and Numpy for data acquisition, cleaning, and feature engineering
