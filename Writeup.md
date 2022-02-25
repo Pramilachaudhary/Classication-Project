@@ -73,8 +73,8 @@ the dataset which has the mushroom's physical characteristics such as color, tex
   <img width="974" alt="Screenshot 2022-02-24 at 7 10 54 PM" src="https://user-images.githubusercontent.com/89863226/155646766-8821fc29-4364-4134-9a7a-028153d42cac.png">
 
   
-  -- Random Forest Classifier Model:
   Random forest model showing the best results in the above graph. 
+  
   Further adding more engineered features and tuning the hyperparameter to overcome the overfitting of the model
   
   The  following evaluation metrics are achieved by training, validating and testing the dataset using RF classifier.
