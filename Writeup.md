@@ -3,7 +3,7 @@ Pramila Chaudhary
 
 # Abstract:
 The goal of this project is to build a classification model which determines whether a mushroom is poisonous or not 
-for a pharmaceutical company who are interested in studying poisonous mushrooms for medicinal properties. I have used 
+for a pharmaceutical company who is interested in studying poisonous mushrooms for medicinal properties. I have used 
 the dataset which has the mushroom's physical characteristics such as color, texture, height, cap-diameter etc. which identifies the poisonous mushrooms.
 
 # Design:
