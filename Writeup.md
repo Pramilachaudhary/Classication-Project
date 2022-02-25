@@ -6,11 +6,6 @@ The goal of this project is to build a classification model which determines whe
 for a pharmaceutical company who are interested in studying poisonous mushrooms for medicinal properties. I have used 
 the dataset which has the mushroom's physical characteristics such as color, texture, height, cap-diameter etc. which identifies the poisonous mushrooms.
 
-
-Random forest classifier to determine the poisonous mushroom and the Accuracy: 0.9885 is achieved by training, validating 
-and testing the dataset using RF classifier.
-
-
 # Design:
 
   **Business Problem**
@@ -83,6 +78,7 @@ and testing the dataset using RF classifier.
   Further adding more engineered features and tuning the hyperparameter to overcome the overfitting of the model
   
   The  following evaluation metrics are achieved by training, validating and testing the dataset using RF classifier.
+  
   Random Forest Classifier validation metrics for test data set: 
   Accuracy: 0.9885 
   Recall: 0.9865
