@@ -39,7 +39,7 @@ the dataset which has the mushroom's physical characteristics such as color, tex
 
   **Data Description:**
     
-  This dataset consists of 61069 number of instances  and 21 number of attributes and 
+  This dataset consists of 61,069 number of instances  and 21 number of attributes and 
   all the mushroom's physical characteristics in dataset are of these two types of species: Agaricus and Lepiota Family Mushroom (Contains medicine compunds)
   
   Target and Features used for building models :
