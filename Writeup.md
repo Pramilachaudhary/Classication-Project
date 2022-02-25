@@ -19,13 +19,13 @@ the dataset which has the mushroom's physical characteristics such as color, tex
 
   **Impact hypothesis**
 
-  We hypothesize that creating a classification model for pharmaceutical companies will help them 
+  I hypothesize that creating a classification model for pharmaceutical companies will help them 
   identify the poisonous mushrooms faster and accurately and save money for their further study.
 
   1. Primary Impacts: Over the past few years, many pharmaceutical companies are taking advantage of 
-  this magic mushroom whose medicinal compounds have raised hundreds of million of dollars from private investors.
+  these mushroom whose medicinal compounds have raised hundreds of million of dollars from private investors.
 
-  2. Secondary Impacts: Successfully identifying and study will not only help the pharmaceutical companies but 
+  2. Secondary Impacts: Successfully identifying and studying will not only help the pharmaceutical companies but 
   also would help the human life by prevent wide range of illnesses including cancer, tumor, diabetes etc
 
 
@@ -39,7 +39,8 @@ the dataset which has the mushroom's physical characteristics such as color, tex
 
   **Data Description:**
     
-  This dataset consists of 61069 number of instances  and 21 number of attributes
+  This dataset consists of 61069 number of instances  and 21 number of attributes and 
+  all the mushroom's physical characteristics in dataset are of these two types of species: Agaricus and Lepiota Family Mushroom (Contains medicine compunds)
   
   Target and Features used for building models :
 
@@ -67,8 +68,10 @@ the dataset which has the mushroom's physical characteristics such as color, tex
   -- Random Forest Classifier Model before (feature engineering and hyperparameter tuning):
   Random Forest Classifier train score: 0.9999181245053356
   Random Forest Classifier  validation metrics: 
+  
   Accuracy: 0.7956 
   Recall: 0.8117
+  fbeta_score: 0.8155
   
   <img width="974" alt="Screenshot 2022-02-24 at 7 10 54 PM" src="https://user-images.githubusercontent.com/89863226/155646766-8821fc29-4364-4134-9a7a-028153d42cac.png">
 
@@ -82,7 +85,7 @@ the dataset which has the mushroom's physical characteristics such as color, tex
   Random Forest Classifier validation metrics for test data set: 
   Accuracy: 0.9885 
   Recall: 0.9865
-
+  fbeta_score: 0.9906
 # Tools
   
   1. Pandas and Numpy for data acquisition, cleaning, and feature engineering
